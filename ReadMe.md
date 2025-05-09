@@ -51,7 +51,7 @@
 
 Comment : You didn’t write : string or : number — TypeScript
 
-# Why Is It Helpful?
+# Why it is Helpful?
 
 1. Less Boilerplate Code
    No need to manually write types for everything — cleaner and faster code.
